@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\my_car\my_car\bin\Debug\my_car.exe.config
+C:\Users\user\source\repos\my_car\my_car\bin\Debug\my_car.exe
+C:\Users\user\source\repos\my_car\my_car\bin\Debug\my_car.pdb
+C:\Users\user\source\repos\my_car\my_car\obj\Debug\my_car.csprojAssemblyReference.cache
+C:\Users\user\source\repos\my_car\my_car\obj\Debug\my_car.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\my_car\my_car\obj\Debug\my_car.exe
+C:\Users\user\source\repos\my_car\my_car\obj\Debug\my_car.pdb
